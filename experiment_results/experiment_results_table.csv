@@ -1,0 +1,8 @@
+Experiment,Hidden layers,Neurons/layer,Activation,Train loss,Train acc,Val loss,Val acc,Test acc
+exp_1hl_256_relu,1,256,relu,0.1878,0.9497,0.2041,0.9425,0.9464
+exp_2hl_256_relu,2,256,relu,0.1171,0.9694,0.1366,0.9587,0.9628
+exp_3hl_256_relu,3,256,relu,0.0804,0.9795,0.1117,0.9672,0.9689
+exp_1hl_128_relu,1,128,relu,0.1991,0.9464,0.2146,0.94,0.9443
+exp_1hl_512_relu,1,512,relu,0.1823,0.9506,0.1983,0.9432,0.9499
+exp_1hl_256_sigmoid,1,256,sigmoid,0.3615,0.8993,0.3702,0.8927,0.904
+exp_1hl_256_tanh,1,256,tanh,0.2555,0.9293,0.2729,0.923,0.9299

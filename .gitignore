@@ -16,3 +16,6 @@ venv/
 
 # Jupyter
 .jupyter/
+
+# Kaggle API credentials (keep secret)
+kaggle.json
